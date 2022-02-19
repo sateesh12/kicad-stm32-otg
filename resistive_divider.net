@@ -1,0 +1,8 @@
+* /Users/sateeshk/src/kicad-stm32-otg/resistive_divider.asc
+R1 N001 Vout 100K
+R2 Vout 0 100K
+V1 N001 0 100 Rser=0
+.op
+.tran 1
+.backanno
+.end
